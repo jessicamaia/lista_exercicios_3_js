@@ -7,7 +7,7 @@ while (idade  != 'fim') {
     if (idade=="fim"){
         break;
     }
-    idade=Number (idade) 
+    idade=Number (idade); 
     if (idade >=18){
         MaiorDeIdade++;
     } 
