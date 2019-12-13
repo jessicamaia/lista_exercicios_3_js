@@ -15,6 +15,6 @@ nome= prompt ('Por favor insira seu nome completo:' ,"");
 NNome= nome.length;
 
 NomeSemEspaco= replaceAll (nome,' ', "");
-SemEspaco=NomeSemEspaco.length
+SemEspaco=NomeSemEspaco.length;
 
-alert(SemEspaco);
+alert('O nome inserido tem '+NNome + " caracteres" + " e " + SemEspaco + " letras.");
