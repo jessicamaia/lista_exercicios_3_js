@@ -6,7 +6,7 @@ while(N != 'fim'){
 
 	if(N != 'fim'){
 		NT += Number(N);
-		i++;	
+		C++;	
 	}
 }
 
