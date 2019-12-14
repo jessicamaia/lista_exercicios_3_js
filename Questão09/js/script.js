@@ -25,4 +25,4 @@ function validacao(Nome, Numero){
 
 Resultado=validacao(NomeCompleto,Numero);
 
-alert("O caractere " + Resultado + " corresponde ao número da posicao informada.");
+alert("O caractere '" + Resultado + "' corresponde ao número da posicao informada.");
